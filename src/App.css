@@ -1,0 +1,11 @@
+.title {
+  font-weight: 600; /* Equivalent to font-semibold */
+  font-size: x-large;
+  text-transform: uppercase; /* Equivalent to uppercase */
+  text-align: center; /* Equivalent to text-center */
+  /* padding: 0.5rem;  Equivalent to p-2 */
+  border-radius: 0.125rem; /* Equivalent to rounded-sm */
+  display: flex;
+  /* justify-content: center;  Center horizontally */
+  align-items: center; /* Center vertically */
+}
